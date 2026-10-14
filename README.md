@@ -1,10 +1,8 @@
 # 🚚 این پروژه منتقل شد | This project has moved
 
-این مخزن دیگر استفاده نمی‌شود. پروژهٔ وب‌سایت **رستوران شمسه در استانبول (دو شعبه: تکسیم و کوجاتپه)** اکنون در سازمان **Websites-by-AI** قرار دارد:
+این مخزن دیگر استفاده نمی‌شود. پروژهٔ وب‌سایت **رستوران شمسه استانبول (دو شعبه: تکسیم و کوجاتپه)** اکنون در سازمان **Websites-by-AI** و با نام **`shamse-restaurant`** قرار دارد:
 
-## ➡️ https://github.com/Websites-by-AI/website-by_ai
+## ➡️ مخزن: https://github.com/Websites-by-AI/shamse-restaurant
+## 🌐 سایت زنده: https://websites-by-ai.github.io/shamse-restaurant/
 
-### 🌐 سایت زنده (Live Demo)
-https://websites-by-ai.github.io/website-by_ai/
-
-*(این مخزن برای جلوگیری از سردرگمی خالی و بایگانی می‌شود؛ لطفاً آن را حذف یا از آن استفاده نکنید.)*
+*(این مخزن خالی و بایگانی شده است تا سردرگمی ایجاد نکند.)*
